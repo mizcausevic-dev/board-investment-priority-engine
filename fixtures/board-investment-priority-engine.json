@@ -1,0 +1,230 @@
+{
+  "generatedAt": "2026-06-01T01:54:59.327Z",
+  "items": [
+    {
+      "id": "ai-fund-now",
+      "owner": "AI operating partner",
+      "audience": "Board strategy committee",
+      "track": "AI_PLATFORM",
+      "action": "FUND",
+      "priorityTheme": "Fund the governed AI flagship",
+      "boardQuestion": "Which current system deserves fresh investment because it already compounds trust, governance, and procurement leverage?",
+      "currentPosture": "The AI governance and agent-readiness lane already resolves into scorecards, procurement proof, and executive memos.",
+      "recommendedMove": "Fund the AI flagship and treat it as the multiplier for governance, trust, and platform narrative reuse.",
+      "priorityScore": 94,
+      "savingsLeverageScore": 62,
+      "downsideExposureScore": 34,
+      "convictionScore": 95,
+      "paybackWindowScore": 88,
+      "boardConfidenceScore": 93,
+      "urgencyScore": 79,
+      "headline": "AI is the clearest fund-now lane because it compounds board trust and cross-functional reuse.",
+      "narrative": "The strongest board story is to keep investing where AI governance already anchors procurement, platform, and diligence outputs instead of letting that lane starve.",
+      "nextBoardAsk": "Approve a priority increase for AI governance, agent readiness, and memo packaging as one flagship operating system.",
+      "companyTags": [
+        "IBM",
+        "Azure",
+        "OpenAI",
+        "MCP"
+      ],
+      "relatedSurfaces": [
+        "scorecard.kineticgain.com",
+        "memo.kineticgain.com",
+        "watsonx.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "AI governance scorecard",
+        "Executive board brief",
+        "Procurement-ready proof set"
+      ]
+    },
+    {
+      "id": "identity-protect-core",
+      "owner": "Identity assurance lead",
+      "audience": "Risk committee",
+      "track": "IDENTITY_SECURITY",
+      "action": "PROTECT",
+      "priorityTheme": "Protect the identity evidence spine",
+      "boardQuestion": "Which risk-control lane should be protected because it stabilizes multiple exposure narratives at once?",
+      "currentPosture": "Identity proof is live across review, posture, and entitlement lanes, but it still acts as one control spine.",
+      "recommendedMove": "Protect identity evidence funding while trimming only duplicate packaging work around it.",
+      "priorityScore": 82,
+      "savingsLeverageScore": 58,
+      "downsideExposureScore": 57,
+      "convictionScore": 86,
+      "paybackWindowScore": 74,
+      "boardConfidenceScore": 85,
+      "urgencyScore": 73,
+      "headline": "Identity should be protected because it carries disproportionate board trust for the rest of the control stack.",
+      "narrative": "The board does not reward cutting the lane that keeps access, device, and remediation evidence coherent. Protect the core and only trim duplicate wrappers.",
+      "nextBoardAsk": "Protect the identity evidence ledger and adjacent control plane while consolidating duplicate review motions.",
+      "companyTags": [
+        "CyberArk",
+        "Okta",
+        "Entra",
+        "Intune"
+      ],
+      "relatedSurfaces": [
+        "identity.kineticgain.com",
+        "protect.kineticgain.com",
+        "guest.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "Identity risk ledger",
+        "Access review posture",
+        "Remediation queue proof"
+      ]
+    },
+    {
+      "id": "revenue-fund-recovery",
+      "owner": "Revenue systems partner",
+      "audience": "Operating committee",
+      "track": "REVENUE_SYSTEMS",
+      "action": "FUND",
+      "priorityTheme": "Fund the highest-recovery revenue lane",
+      "boardQuestion": "Which revenue-system motion has the cleanest tie between investment and margin recovery?",
+      "currentPosture": "Revenue infrastructure already exposes leak recovery, experiment proof, and reporting-path uplift.",
+      "recommendedMove": "Fund the revenue lane with the clearest leak-recovery path and let the lower-yield backlog wait.",
+      "priorityScore": 89,
+      "savingsLeverageScore": 91,
+      "downsideExposureScore": 41,
+      "convictionScore": 88,
+      "paybackWindowScore": 84,
+      "boardConfidenceScore": 87,
+      "urgencyScore": 77,
+      "headline": "Revenue should be funded where margin recovery is already board-readable, not merely plausible.",
+      "narrative": "This is the easiest story to tell a CFO: fund the lane that already ties operator work to saved spend and cleaner growth math.",
+      "nextBoardAsk": "Approve incremental funding for the revenue infrastructure scorecard and margin leak remediation path.",
+      "companyTags": [
+        "Klaviyo",
+        "VWO",
+        "Power BI",
+        "Tableau"
+      ],
+      "relatedSurfaces": [
+        "revenue.kineticgain.com",
+        "leak.kineticgain.com",
+        "martech.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "Platform margin leak report",
+        "Revenue infrastructure scorecard",
+        "Benchmark waterfall"
+      ]
+    },
+    {
+      "id": "fintech-hold-proof",
+      "owner": "FinTech diligence lead",
+      "audience": "Investor diligence committee",
+      "track": "FINTECH",
+      "action": "HOLD",
+      "priorityTheme": "Hold FinTech until proof quality catches up",
+      "boardQuestion": "Where should we hold investment steady until downside exposure and proof fragmentation improve?",
+      "currentPosture": "Payments, KYC, treasury, and merchant review are live, but the story is still clustered across multiple risk motions.",
+      "recommendedMove": "Hold FinTech expansion flat until reserve, KYC, and merchant proof are cleaner and easier to defend.",
+      "priorityScore": 61,
+      "savingsLeverageScore": 49,
+      "downsideExposureScore": 73,
+      "convictionScore": 64,
+      "paybackWindowScore": 57,
+      "boardConfidenceScore": 68,
+      "urgencyScore": 71,
+      "headline": "FinTech should hold for now because the downside clusters faster than the board proof improves.",
+      "narrative": "The disciplined answer is not to cut the lane, but to hold it while the diligence and queue-quality story catches up.",
+      "nextBoardAsk": "Keep FinTech funding flat until reserve exposure, KYC refresh posture, and merchant review timing are less clustered.",
+      "companyTags": [
+        "Payments",
+        "Treasury",
+        "KYC",
+        "Merchant risk"
+      ],
+      "relatedSurfaces": [
+        "payments.kineticgain.com",
+        "treasury.kineticgain.com",
+        "merchant.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "Investor diligence pack",
+        "Treasury signal lab",
+        "Merchant review posture",
+        "KYC queue evidence"
+      ]
+    },
+    {
+      "id": "biotech-protect-system",
+      "owner": "Quality systems sponsor",
+      "audience": "Regulated growth committee",
+      "track": "BIOTECH_DIAGNOSTICS",
+      "action": "PROTECT",
+      "priorityTheme": "Protect the regulated quality system",
+      "boardQuestion": "Which regulated lane behaves like one working operating system and should be defended from opportunistic cuts?",
+      "currentPosture": "GxP, CAPA, specimen, safety, and narrative review now read as one coherent regulated stack.",
+      "recommendedMove": "Protect the core biotech system and only defer peripheral presentation work if the board wants savings.",
+      "priorityScore": 86,
+      "savingsLeverageScore": 44,
+      "downsideExposureScore": 39,
+      "convictionScore": 92,
+      "paybackWindowScore": 72,
+      "boardConfidenceScore": 91,
+      "urgencyScore": 63,
+      "headline": "Biotech should be protected because the regulated system already reads as one defensible story.",
+      "narrative": "The mistake would be harvesting short-term savings from the one regulated lane that already behaves like a mature operating layer.",
+      "nextBoardAsk": "Protect the biotech quality system and approve only narrow follow-on evidence improvements.",
+      "companyTags": [
+        "GxP",
+        "CAPA",
+        "Specimen",
+        "Safety"
+      ],
+      "relatedSurfaces": [
+        "gxp.kineticgain.com",
+        "capa.kineticgain.com",
+        "specimen.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "Change control board",
+        "CAPA ledger",
+        "Specimen custody proof",
+        "Safety signal router"
+      ]
+    },
+    {
+      "id": "procurement-trim-overlap",
+      "owner": "Procurement intelligence lead",
+      "audience": "Go-to-market committee",
+      "track": "PROCUREMENT_TRUST",
+      "action": "TRIM",
+      "priorityTheme": "Trim overlapping procurement motions",
+      "boardQuestion": "Where can we save money by collapsing duplicated proof packaging instead of building another buyer-facing layer?",
+      "currentPosture": "Procurement proof is strong, but multiple trust-answer-packaging motions still overlap before reuse is maximized.",
+      "recommendedMove": "Trim overlapping procurement work and reallocate effort into the reusable answer and evidence core.",
+      "priorityScore": 76,
+      "savingsLeverageScore": 89,
+      "downsideExposureScore": 58,
+      "convictionScore": 72,
+      "paybackWindowScore": 83,
+      "boardConfidenceScore": 79,
+      "urgencyScore": 81,
+      "headline": "Procurement is the clearest trim lane because savings are visible without killing the core trust story.",
+      "narrative": "The board story gets stronger when procurement proof reuses itself. The right move is to trim duplicate packaging and keep the trust spine intact.",
+      "nextBoardAsk": "Approve a trim across overlapping procurement wrappers and reallocate savings into reusable trust evidence.",
+      "companyTags": [
+        "Procurement",
+        "Trust center",
+        "Questionnaires",
+        "RFP"
+      ],
+      "relatedSurfaces": [
+        "procurement.kineticgain.com",
+        "questionnaire.kineticgain.com",
+        "proofgap.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "Procurement OS",
+        "Questionnaire answer studio",
+        "Trust center evidence room",
+        "Vendor proof gap monitor"
+      ]
+    }
+  ]
+}
